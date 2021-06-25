@@ -1,5 +1,5 @@
-# Badger Community Painting Art
-BadgerES (spanish community) POAP.art canvas activity to improve protocol awareness and conversion within global community in cluding spanish speakers
+# Badger Community Painting Art Party
+BadgerES (spanish speakers community) POAP.art canvas activity to improve protocol awareness and conversion within global community.Make art join us as universal language and learn more about this amazing protocol!
 
 Twitter: https://twitter.com/BadgerES
 
