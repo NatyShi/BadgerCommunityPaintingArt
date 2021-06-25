@@ -1,4 +1,4 @@
-# BadgerCommunityPaintingArt
+# Badger Community Painting Art
 BadgerES (spanish community) POAP.art canvas activity to improve protocol awareness and conversion within global community in cluding spanish speakers
 
 Twitter: https://twitter.com/BadgerES
